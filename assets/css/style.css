@@ -1,0 +1,107 @@
+
+@import url("https://use.typekit.net/sbi5vdr.css");
+.dark {
+    background-color: rgba(0, 0, 0, 0.85)
+}
+.imagen-cuadrada {
+    min-width: 200px;
+    min-height: 200px;
+}
+.cubierto {
+    max-height: 250px;
+}
+.banner2 img {
+    min-width: 100%;
+    max-width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.btn {
+    background-color: none;  
+}
+.arreglo-nav {
+    font-size: 30px;
+}
+
+.ocultar {
+    height: 200px;
+    object-fit: cover;
+    
+}
+.titulos-1 {
+    min-height: 90px;
+}
+.texto-bienvenida {
+    font-size: 40px;
+    color: #ffc82381;
+
+}
+
+.fotoindex {
+    background: url(https://f4.bcbits.com/img/a4056212372_10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+}
+
+/*colores*/
+.amarillo { 
+    text-decoration: #FFC823 !important; 
+    color : #FFC823 !important;
+    
+}
+.arreglo-titulo {
+    font-size: 80px;
+}
+.nav-link {
+    color: #FFC823;
+    font-size: 30px;
+    --bs-nav-link-color:var(--bs-nav-link-color):none;
+}
+.rojo {
+    color: #A42D23;
+}
+.negro {
+    color: #000000;
+}
+.azul {
+    color: #000469;
+}
+.amarillo-bg {
+    background-color: #FFC823;
+}
+.rojo-bg {
+    background-color: #A42D23;
+}
+.negro-bg {
+    background-color: #000000;
+}
+.azul-bg {
+    background-color: #000469;
+}
+/* Fuentes */
+.text-gothicus {
+    font-family: gothicus, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text-gothicus-roman {
+    font-family: gothicus-roman, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text-copper {
+    font-family: copperplate, serif;
+    font-weight: 300;
+    font-style: normal;
+}
+/*footer*/
+.footer-1 {
+    height: 140px;
+}
+.footer-2 {
+    height: 282px;
+}
+.altura-footer {
+    font-size: 25px;
+}
